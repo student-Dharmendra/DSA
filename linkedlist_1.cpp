@@ -1,3 +1,4 @@
+//create a singly linked list
 #include<iostream>
 using namespace std;
 class Node
