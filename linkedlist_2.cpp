@@ -1,3 +1,4 @@
+// insertion the value at end
 #include<iostream>
 using namespace std;
 class Node
